@@ -5,6 +5,8 @@
 
 <h4 align="center">JAVA T2 </h4>
 
+<h4 align="center">PROJETO REDE SOCIAL</h4>
+
 <div align="center">
 
   <h4 align="center">INTEGRANTES DO GRUPO - 2</h4>
